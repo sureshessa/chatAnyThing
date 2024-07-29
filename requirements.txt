@@ -1,0 +1,7 @@
+langchain-groq
+streamlit
+streamlit_chat
+ipywidgets
+flask
+ChatterBot
+crewai
